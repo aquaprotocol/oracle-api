@@ -1,5 +1,7 @@
 # oracle-api
 
+Chainlink Virtual Hackathon Spring 2021
+
 The Oracle provider for the BankFunctionOracle.sol smart contract.
 
 ### Event listener:
